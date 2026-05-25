@@ -1,0 +1,8 @@
+# Core dev tools
+pytest>=7.0
+black>=22.0
+mypy>=1.0
+
+# Optionally, linters / format helpers
+ruff>=0.5
+isort>=5.12
